@@ -30,6 +30,14 @@ const Banner = () => {
             </div>
           </div>
         </div>
+        <div className='flex items-center flex-col mt-5 text-center'>
+          <h1 className='text-[40px] font-[700]'>Our Recipes</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus
+            vulputate netus pharetra rhoncus.<br></br> Eget urna volutpat curabitur
+            elementum mauris aenean neque.{" "}
+          </p>
+        </div>
       </div>
     );
 };

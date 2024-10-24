@@ -12,7 +12,7 @@
       "150 g bell peppers",
       "1 tablespoon olive oil"
     ],
-    "preparing_time": "30 minutes",
+    "preparing_time": 30,
     "calories": 450
   },
   {
@@ -28,7 +28,7 @@
       "2 cloves garlic",
       "50 g parmesan cheese"
     ],
-    "preparing_time": "45 minutes",
+    "preparing_time": 45,
     "calories": 600
   },
   {
@@ -44,7 +44,7 @@
       "2 tablespoons curry powder",
       "1 tablespoon vegetable oil"
     ],
-    "preparing_time": "40 minutes",
+    "preparing_time": 40,
     "calories": 350
   },
   {
@@ -60,7 +60,7 @@
       "1 red onion",
       "3 tablespoons olive oil"
     ],
-    "preparing_time": "15 minutes",
+    "preparing_time": 15,
     "calories": 200
   },
   {
@@ -76,7 +76,7 @@
       "200 ml milk",
       "100 g butter"
     ],
-    "preparing_time": "60 minutes",
+    "preparing_time": 60,
     "calories": 450
   },
   {
@@ -92,7 +92,7 @@
       "50 ml lime juice",
       "1 tablespoon cilantro"
     ],
-    "preparing_time": "25 minutes",
+    "preparing_time": 25,
     "calories": 350
   }
 ]
