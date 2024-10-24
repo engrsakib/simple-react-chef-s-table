@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_img": "https://i.ibb.co.com/26dkBHt/2151713033.jpg",
+    "recipe_name": "Chicken Stir Fry",
+    "recipe_id": "001",
+    "short_dis": "A quick and healthy chicken stir fry with fresh vegetables.",
+    "Ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushrooms",
+      "150 g bell peppers",
+      "1 tablespoon olive oil"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": 450
+  },
+  {
+    "recipe_img": "https://i.ibb.co.com/X51s3vj/top-view-vegetable-soup-with-meat-inside-plate-grey.jpg",
+    "recipe_name": "Spaghetti Bolognese",
+    "recipe_id": "002",
+    "short_dis": "Classic Italian pasta dish with a rich meat sauce.",
+    "Ingredients": [
+      "400 g spaghetti",
+      "300 g ground beef",
+      "1 can diced tomatoes",
+      "1 onion",
+      "2 cloves garlic",
+      "50 g parmesan cheese"
+    ],
+    "preparing_time": "45 minutes",
+    "calories": 600
+  },
+  {
+    "recipe_img": "https://i.ibb.co.com/2SHdWg8/side-view-pilaf-with-stewed-beef-meat-plate.jpg",
+    "recipe_name": "Vegetable Curry",
+    "recipe_id": "003",
+    "short_dis": "A spicy and flavorful vegetable curry, perfect with rice.",
+    "Ingredients": [
+      "300 g cauliflower",
+      "200 g green peas",
+      "150 g carrots",
+      "200 ml coconut milk",
+      "2 tablespoons curry powder",
+      "1 tablespoon vegetable oil"
+    ],
+    "preparing_time": "40 minutes",
+    "calories": 350
+  },
+  {
+    "recipe_img": "https://i.ibb.co.com/dPG3k8k/delicious-lobster-gourmet-seafood.jpg",
+    "recipe_name": "Greek Salad",
+    "recipe_id": "004",
+    "short_dis": "A refreshing salad with tomatoes, cucumbers, and feta cheese.",
+    "Ingredients": [
+      "250 g cherry tomatoes",
+      "200 g cucumbers",
+      "100 g feta cheese",
+      "50 g black olives",
+      "1 red onion",
+      "3 tablespoons olive oil"
+    ],
+    "preparing_time": "15 minutes",
+    "calories": 200
+  },
+  {
+    "recipe_img": "https://i.ibb.co.com/Z6Wg4FX/tasty-homemade-sandwich-tomatoes-pepper-wooden-board-onions-tomato-with-stem-chicken-nuggets-dark-co.jpg",
+    "recipe_name": "Chocolate Cake",
+    "recipe_id": "005",
+    "short_dis": "Decadent chocolate cake topped with rich frosting.",
+    "Ingredients": [
+      "200 g all-purpose flour",
+      "150 g sugar",
+      "100 g cocoa powder",
+      "2 eggs",
+      "200 ml milk",
+      "100 g butter"
+    ],
+    "preparing_time": "60 minutes",
+    "calories": 450
+  },
+  {
+    "recipe_img": "https://i.ibb.co.com/F43Sk7G/high-angle-delicious-brazilian-food-composition.jpg",
+    "recipe_name": "Fish Tacos",
+    "recipe_id": "006",
+    "short_dis": "Crispy fish tacos with fresh toppings and a zesty sauce.",
+    "Ingredients": [
+      "300 g white fish",
+      "6 corn tortillas",
+      "100 g cabbage",
+      "1 avocado",
+      "50 ml lime juice",
+      "1 tablespoon cilantro"
+    ],
+    "preparing_time": "25 minutes",
+    "calories": 350
+  }
+]
