@@ -2,7 +2,7 @@ import React from "react";
 import { FaRegClock } from "react-icons/fa";
 import { AiFillFire } from "react-icons/ai";
 
-const Item = ({ item }) => {
+const Item = ({ item, handleCoock }) => {
   const {
     recipe_img,
     recipe_name,
@@ -11,17 +11,21 @@ const Item = ({ item }) => {
     recipe_id,
     calories,
     preparing_time,
+    new_items,
   } = item;
+
   return (
-    <div className="col-span-3">
-      <div class="card bg-base-100 shadow-xl">
+    <div className="md:col-span-3 col-span-6">
+      <div className="card bg-base-100 shadow-xl">
         <figure>
           <img className="h-[350px] w-full" src={recipe_img} alt="Shoes" />
         </figure>
-        <div class="card-body">
-          <h2 class="card-title">
+        <div className="card-body">
+          <h2 className="card-title">
             {recipe_name}
-            <div class="badge badge-secondary">NEW</div>
+            <div className={new_items ? "badge badge-secondary" : "hidden"}>
+              New
+            </div>
           </h2>
           <p className="text-gray-400">{short_dis}</p>
           <div>
@@ -32,16 +36,23 @@ const Item = ({ item }) => {
               <li key={idx}>{itm}</li>
             ))}
           </div>
-          <div class="card-actions justify-start">
-            <div class="badge badge-outline">
+          <div className="card-actions justify-start">
+            <div className="badge badge-outline">
               <FaRegClock /> {preparing_time} minutes
             </div>
-            <div class="badge badge-outline">
+            <div className="badge badge-outline">
               <AiFillFire />
               {calories} Calories
             </div>
           </div>
-          <button className="btn btn-success my-3">Want to cock</button>
+          <button
+            onClick={() => {
+              handleCoock(item);
+            }}
+            className="btn btn-success text-white hover:btn-secondary duration-300 ease-in-out my-3"
+          >
+            Want to cock
+          </button>
         </div>
       </div>
     </div>

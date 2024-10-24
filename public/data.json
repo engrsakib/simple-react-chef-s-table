@@ -13,7 +13,8 @@
       "1 tablespoon olive oil"
     ],
     "preparing_time": 30,
-    "calories": 450
+    "calories": 450,
+    "new_items" : true
   },
   {
     "recipe_img": "https://i.ibb.co.com/X51s3vj/top-view-vegetable-soup-with-meat-inside-plate-grey.jpg",
@@ -29,7 +30,8 @@
       "50 g parmesan cheese"
     ],
     "preparing_time": 45,
-    "calories": 600
+    "calories": 600,
+    "new_items" : false
   },
   {
     "recipe_img": "https://i.ibb.co.com/2SHdWg8/side-view-pilaf-with-stewed-beef-meat-plate.jpg",
@@ -45,7 +47,8 @@
       "1 tablespoon vegetable oil"
     ],
     "preparing_time": 40,
-    "calories": 350
+    "calories": 350,
+    "new_items" : true
   },
   {
     "recipe_img": "https://i.ibb.co.com/dPG3k8k/delicious-lobster-gourmet-seafood.jpg",
@@ -61,7 +64,8 @@
       "3 tablespoons olive oil"
     ],
     "preparing_time": 15,
-    "calories": 200
+    "calories": 200,
+    "new_items" : true
   },
   {
     "recipe_img": "https://i.ibb.co.com/Z6Wg4FX/tasty-homemade-sandwich-tomatoes-pepper-wooden-board-onions-tomato-with-stem-chicken-nuggets-dark-co.jpg",
@@ -77,7 +81,8 @@
       "100 g butter"
     ],
     "preparing_time": 60,
-    "calories": 450
+    "calories": 450,
+    "new_items" : true
   },
   {
     "recipe_img": "https://i.ibb.co.com/F43Sk7G/high-angle-delicious-brazilian-food-composition.jpg",
@@ -93,6 +98,7 @@
       "1 tablespoon cilantro"
     ],
     "preparing_time": 25,
-    "calories": 350
+    "calories": 350,
+    "new_items" : false
   }
 ]
