@@ -55,7 +55,7 @@ const CoockTable = ({
       {/* prepared coocked section */}
       <div className="my-2">
         <h1 className="text-[24px] text-center font-[600]">
-          Want to cook: {separedCoock.length}
+          process to cook: {separedCoock.length}
         </h1>
         <div className="min-h-[60px]">
           <div className="overflow-x-auto">
